@@ -8,7 +8,7 @@ Today's assignment is to create a yearbook-style image gallery of the class. It 
 
 The `starter-code` folder containers a boilerplate html file with the Technigo logo & color scheme to get you started. Feel free to change the theme if you'd like!
 
-To complete this assignment, you need to fork this repository, make changes to your copy, and then submit a pull request on GitHub for review. [Read the guide on GitHub](https://guides.github.com/activities/forking/) for more info on how to do this.
+To complete this assignment, you need to fork this repository, make changes to your copy, and then submit a pull request on GitHub (from your repository into the technigo one) for review. [Read the guide on GitHub](https://guides.github.com/activities/forking/) for more info on how to do this.
 
 ### :books: Reading List
 
