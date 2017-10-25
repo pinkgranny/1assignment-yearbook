@@ -15,6 +15,7 @@ To complete this assignment, you need to fork this repository, make changes to y
 * [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 * [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [HTML Images](https://www.w3schools.com/html/html_images.asp)
+* [CSS Floats](https://www.w3schools.com/css/css_float.asp)
 
 ---
 
