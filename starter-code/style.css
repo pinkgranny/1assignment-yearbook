@@ -1,3 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+
 html {
   background: #0025FF;
   color: #fff;
@@ -5,7 +9,13 @@ html {
 
 header {
   padding: 20px;
+ text-align: center;
 }
+
+/*.top-container{
+text-align: center;
+display: none;
+}*/
 
 .logo {
   text-align: center;
@@ -19,4 +29,33 @@ header {
 .logo img {
   width: 140px;
   margin-top: 55px;
+}
+
+
+
+img{
+  width: 150px;
+  padding: 10px;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  color: black;
+  padding-bottom: 20px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.card{
+
+
+ background-color: white;
+ text-align: center;
+}
+
+.space{
+  width: 25%;
+  padding: 10px;
+  float: left;
 }
