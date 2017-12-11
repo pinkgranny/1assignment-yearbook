@@ -31,8 +31,6 @@ display: none;
   margin-top: 55px;
 }
 
-
-
 img{
   width: 150px;
   padding: 10px;
@@ -40,6 +38,7 @@ img{
 }
 
 p{
+  font-family: "Chalkduster", Times, serif;
   text-align: center;
   color: black;
   padding-bottom: 20px;
@@ -48,10 +47,10 @@ p{
 }
 
 .card{
-
-
  background-color: white;
  text-align: center;
+ border-radius: 6px;
+ box-shadow: 5px 5px 5px #dcdada;
 }
 
 .space{
